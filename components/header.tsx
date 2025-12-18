@@ -43,7 +43,7 @@ export function Header() {
             href="https://github.com/ambir513/authentiText"
             target="_blank"
             rel="noreferrer"
-            className="px-3 text-sm text-muted-foreground hover:text-foreground"
+            className="px-3 text-sm hover:text-foreground"
           >
             GitHub
           </Link>
